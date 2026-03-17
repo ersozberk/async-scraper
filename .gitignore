@@ -1,0 +1,13 @@
+cat << 'EOF' > .gitignore
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+scraper
+
+# OS specific
+.DS_Store
+EOF
