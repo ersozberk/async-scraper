@@ -1,5 +1,8 @@
 # ⚡ Go Concurrent Health Checker
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ersozberk/async-scraper/edit/main/README.md)
+[![pt-br](https://img.shields.io/badge/lang-tr-green.svg)](https://github.com/ersozberk/async-scraper/edit/main/README-tr.md)
+
 ![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)
 ![Concurrency](https://img.shields.io/badge/Concurrency-Goroutines_%26_Channels-blue)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey)
