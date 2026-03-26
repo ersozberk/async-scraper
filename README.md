@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # ⚡ Go Concurrent Health Checker
 
 ![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)
